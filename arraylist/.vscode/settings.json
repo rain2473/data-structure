@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "element.h": "c",
+        "arraylist.h": "c"
+    }
+}
